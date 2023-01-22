@@ -37,3 +37,15 @@ var quizQuestions = [
     correctAnswer: "b",
   },
 ];
+
+//Project variables
+var question = document.querySelector("question");
+var choices = document.querySelector("choices");
+var winCounter = 0;
+var loseCounter = 0;
+var timer;
+var timerCount;
+
+//Add quiz mains function and children functions
+
+//call the function
