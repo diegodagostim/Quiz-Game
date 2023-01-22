@@ -1,3 +1,4 @@
+//Arrys of question and answers
 var quizQuestions = [
   {
     question: "What is the capital of France?",
