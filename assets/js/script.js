@@ -45,6 +45,7 @@ var winCounter = 0;
 var loseCounter = 0;
 var timer;
 var timerCount;
+var score = document.querySelector("highscores");
 
 //Add quiz mains function and children functions
 
